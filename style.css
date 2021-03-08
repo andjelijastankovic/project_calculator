@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+.container {
+    background-image: url(back.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    height: auto;
+}
+
+input.form-control {
+    background-color: rgba(173, 28, 45, 0.123);
+}
+
+input.form-control:read-only {
+    background-color: rgb(203, 203, 221);
+}
+
+.btn {
+    background-color: rgb(108, 106, 137);
+}
+
+
+
